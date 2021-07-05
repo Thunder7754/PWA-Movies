@@ -1,0 +1,8 @@
+  04.07.2021 21:18:40: Starting composition “PWA-GT-Masters”.
+
+  Output To: D:\Personal Data\Projekte\ACC\PWA-Movies\AfterEffects\PWA-GT-Masters\Export\PWA-GT-Masters.avi    04.07.2021 21:38:17: Finished composition “PWA-GT-Masters”.
+
+
+  Total Time Elapsed: 19 Min, 37 Sec
+Log closed on 04.07.2021 at 21:38:17
+
